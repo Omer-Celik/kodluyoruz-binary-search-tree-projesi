@@ -36,7 +36,7 @@
 
 ![insert-0](img/step-7.png)
 
-8.  9,7 ve 8'den büyük oludğu için 8'in sağına yerleştirdik.
+8.  9,7 ve 8'den büyük oluduğu için 8'in sağına yerleştirdik.
 
 ![insert-9](img/step-8.png)
 
